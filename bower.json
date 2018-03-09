@@ -1,0 +1,21 @@
+{
+  "name": "individualplannodeweb",
+  "description": "Individual Development plan Application",
+  "main": "index.js",
+  "author": "dhilipk",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.1.16"
+  }
+}
